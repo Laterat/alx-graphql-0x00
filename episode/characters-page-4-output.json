@@ -1,0 +1,10 @@
+{
+  "data": {
+    "episode": {
+      "id": "4",
+      "name": "M. Night Shaym-Aliens!",
+      "air_date": "January 13, 2014",
+      "episode": "S01E04"
+    }
+  }
+}
